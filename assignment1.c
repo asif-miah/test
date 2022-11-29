@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(void)
 {
-    printf("there is a error\n");
+    printf("error is fixed\n");
     return 0;
 }
