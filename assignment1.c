@@ -35,6 +35,5 @@ int main()
     m=0;
    }
 
-    }
-    return 0;
+return 0;
 }
